@@ -1,2 +1,3 @@
 # shield
 to protect
+Hi there. New to coding but know somehow...
